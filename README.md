@@ -1,7 +1,7 @@
 - 👋 Hi,Bonjour,Salute  I’m @Wesleysnipzz ( c'est Mon pseudo ) 
 - 👀 I’m interested in the developpement 
 - 🌱 I’m currently learning actually the C# , .NET , GOlang , javascript , php ..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... GOLANG , C#
 - 📫 How to reach me ... Lnkdin , github , or discord .
 - 😄 Pronouns: ... wesley , kim . 
 - ⚡ Fun fact: my last jobs is paramédic ! 
